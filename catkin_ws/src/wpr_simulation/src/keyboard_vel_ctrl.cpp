@@ -42,7 +42,7 @@
 
 static float linear_vel = 0.1;
 static float angular_vel = 0.1;
-static int k_vel = 3;
+static int k_vel = 2;
 
 int GetCh()
 {
